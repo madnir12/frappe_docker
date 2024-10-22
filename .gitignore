@@ -28,3 +28,5 @@ venv
 
 # NodeJS
 node_modules
+testing.pem
+test2.pem
